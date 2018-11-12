@@ -122,7 +122,7 @@ public class Libreria extends JFrame implements ActionListener {
 	}
 
 	void imprimir(String cad) {
-		txtS.append(cad + "\n");
+		txtS.append(cad + "\n"+"\n");
 	}
 
 	// Procesa la pulsación del botón Procesar
